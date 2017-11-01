@@ -1,0 +1,23 @@
+{
+  "name": "kat_fro_s_04_furry_game",
+  "version": "1.0.0",
+  "description": "Fury game by Piotr Stanislawski",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stachuu87/KAT_FRO_S_04_Furry_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stachuu87/KAT_FRO_S_04_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/Stachuu87/KAT_FRO_S_04_Furry_Game#readme",
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {}
+}
